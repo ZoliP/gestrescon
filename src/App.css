@@ -4,6 +4,7 @@
 
 .App-logo {
   height: 40vmin;
+  /* 1 vmin - Relative to 1% of viewport's* smaller dimension*/
   pointer-events: none;
 }
 
