@@ -1,3 +1,5 @@
+It is a small aplication (V.1) that manages the resources of a construction site.
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
